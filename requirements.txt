@@ -1,0 +1,4 @@
+llama-index==0.10.18
+llama-index-vector-stores-pinecone==0.1.4
+pinecone-client==3.0.2
+openai==1.12.0
